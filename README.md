@@ -4,7 +4,4 @@
 
 This is really document
 
-
-edit 3 times
-
-MORE CHANGES
+rebase test
